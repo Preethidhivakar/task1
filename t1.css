@@ -1,0 +1,29 @@
+
+    p {
+        margin-left: 10px;
+        font-size: 30px;
+    }
+
+.card {
+margin-top: 200px;
+    margin-left: 500px;
+    width: 583px;
+    height: 337px;
+    border: 1px solid black;
+    box-sizing:border-box;
+    background-color: chartreuse;
+    padding-left: 10px;
+    
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;}
+    h1{
+        font-family: 'Petemoss', cursive;
+        padding-left: 330px;
+        padding-top: 60px;
+        font-size: 60px;
+
+    }
+  
+
+   
